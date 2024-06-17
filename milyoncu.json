@@ -1,0 +1,855 @@
+{
+    "ad": "Ümumi bilik sualları",
+    "sual": [
+        {
+            "s": "Fransanın paytaxtı hansıdır?",
+            "c": [
+                "Berlin",
+                "Madrid",
+                "Paris",
+                "Roma"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Yer kürəsinin ən böyük okeanı hansıdır?",
+            "c": [
+                "Atlantik Okeanı",
+                "Hind Okeanı",
+                "Arktik Okeanı",
+                "Sakit Okean"
+            ],
+            "d": 3
+        },
+        {
+            "s": "Albert Eynşteyn hansı məşhur tənliyi yaradıb?",
+            "c": [
+                "E=mc²",
+                "F=ma",
+                "a²+b²=c²",
+                "PV=nRT"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Azərbaycanın milli valyutası nədir?",
+            "c": [
+                "Dollar",
+                "Manat",
+                "Rubl",
+                "Euro"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı dənizə Qara dəniz deyilir?",
+            "c": [
+                "Xəzər dənizi",
+                "Adriatik dənizi",
+                "Qara dəniz",
+                "Aralıq dənizi"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Dünyanın ən böyük səhrası hansıdır?",
+            "c": [
+                "Qobi",
+                "Sahara",
+                "Kalahari",
+                "Atakama"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Nobel Mükafatı hansı ölkədə təqdim olunur?",
+            "c": [
+                "Danimarka",
+                "Norveç",
+                "İsveç",
+                "Finlandiya"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Hansı ölkə ən çox əhalisi olan ölkədir?",
+            "c": [
+                "Hindistan",
+                "Braziliya",
+                "Amerika Birləşmiş Ştatları",
+                "Çin"
+            ],
+            "d": 3
+        },
+        {
+            "s": "Yer kürəsinin ən yüksək zirvəsi hansıdır?",
+            "c": [
+                "Everest",
+                "K2",
+                "Kanchenjunga",
+                "Makalu"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Yer kürəsinin ən böyük adası hansıdır?",
+            "c": [
+                "Borneo",
+                "Madagaskar",
+                "Qrenlandiya",
+                "Yeni Qvineya"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Hansı elementin simvolu O-dur?",
+            "c": [
+                "Hidrogen",
+                "Oksigen",
+                "Karbon",
+                "Azot"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Dünyanın ən uzun çayı hansıdır?",
+            "c": [
+                "Amazon",
+                "Nil",
+                "Mississippi",
+                "Yangtze"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Avstraliyanın paytaxtı hansıdır?",
+            "c": [
+                "Sidney",
+                "Melburn",
+                "Brisben",
+                "Kanberra"
+            ],
+            "d": 3
+        },
+        {
+            "s": "İngiltərənin milli bayramı hansıdır?",
+            "c": [
+                "Müstəqillik Günü",
+                "Şükran Günü",
+                "Vətəndaş Günü",
+                "Kraliçanın Ad Günü"
+            ],
+            "d": 3
+        },
+        {
+            "s": "Rusiyanın ən böyük şəhəri hansıdır?",
+            "c": [
+                "Moskva",
+                "Sankt-Peterburq",
+                "Novosibirsk",
+                "Yekaterinburq"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı qitədə Böyük Kanyon yerləşir?",
+            "c": [
+                "Asiya",
+                "Afrika",
+                "Avropa",
+                "Şimali Amerika"
+            ],
+            "d": 3
+        },
+        {
+            "s": "Hansı heyvanın kürəsi ən sürətlidir?",
+            "c": [
+                "Çita",
+                "Qartal",
+                "Delfin",
+                "At"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı ölkə qitəsi Avropada yerləşir?",
+            "c": [
+                "Braziliya",
+                "Kanada",
+                "Yaponiya",
+                "Almaniya"
+            ],
+            "d": 3
+        },
+        {
+            "s": "Hansı nöqtədə ekvatorun ən yüksək nöqtəsi yerləşir?",
+            "c": [
+                "Kilimancaro",
+                "Everest",
+                "Çimborazo",
+                "Denali"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Hansı rəngin dalğa uzunluğu ən qısadır?",
+            "c": [
+                "Qırmızı",
+                "Sarı",
+                "Mavi",
+                "Yaşıl"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Yer kürəsində ən dərin okean hansıdır?",
+            "c": [
+                "Atlantik Okeanı",
+                "Sakit Okean",
+                "Hind Okeanı",
+                "Arktik Okeanı"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Fizikada 'q' nəyi təmsil edir?",
+            "c": [
+                "Sürət",
+                "Kütlə",
+                "Elektrik yüklü",
+                "Çevrilmə"
+            ],
+            "d": 2
+        },
+        {
+            "s": "İtaliyanın paytaxtı hansıdır?",
+            "c": [
+                "Roma",
+                "Venesiya",
+                "Milan",
+                "Florensiya"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı dildə ən çox danışan insan var?",
+            "c": [
+                "İngilis dili",
+                "Mandarin Çin dili",
+                "İspan dili",
+                "Hind dili"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı elementin simvolu Fe-dir?",
+            "c": [
+                "Fosfor",
+                "Fermium",
+                "Fransium",
+                "Dəmir"
+            ],
+            "d": 3
+        },
+        {
+            "s": "Hansı dəniz Aralıq dənizinin şimalındadır?",
+            "c": [
+                "Karib dənizi",
+                "Adriatik dənizi",
+                "Sarı dəniz",
+                "Bering dənizi"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı qaz havanın tərkibində ən çoxdur?",
+            "c": [
+                "Oksigen",
+                "Azot",
+                "Karbon dioksid",
+                "Hidrogen"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı planetin Günəşə ən yaxın planeti hansıdır?",
+            "c": [
+                "Venera",
+                "Mars",
+                "Merkuri",
+                "Yupiter"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Çin səddinin uzunluğu təqribən nə qədərdir?",
+            "c": [
+                "500 km",
+                "2,000 km",
+                "10,000 km",
+                "21,000 km"
+            ],
+            "d": 3
+        },
+        {
+            "s": "Hansı dəniz Avstraliyanın şimalında yerləşir?",
+            "c": [
+                "Qırmızı dəniz",
+                "Qara dəniz",
+                "Timor dənizi",
+                "Ərəb dənizi"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Hansı heyvanı 'ağ delfin' adlandırırlar?",
+            "c": [
+                "Orka",
+                "Beluga",
+                "Narval",
+                "Qırmızı balina"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı ölkə ən böyük əraziyə sahibdir?",
+            "c": [
+                "Kanada",
+                "Çin",
+                "Rusiya",
+                "Amerika Birləşmiş Ştatları"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Hansı bitki ən çox oksigen istehsal edir?",
+            "c": [
+                "Balıq qulağı",
+                "Bambuk",
+                "Tütün",
+                "Dəniz yosunu"
+            ],
+            "d": 3
+        },
+        {
+            "s": "Hansı şəhər 'güllər şəhəri' adlanır?",
+            "c": [
+                "Parisi",
+                "Vyananı",
+                "İstanbulu",
+                "Tokionu"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Yer kürəsinin neçə peyki var?",
+            "c": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı ölkənin bayrağında qara, qırmızı və sarı rənglər var?",
+            "c": [
+                "Almaniya",
+                "Belçika",
+                "İspaniya",
+                "Portuqaliya"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı il Apollo 11 Ay missiyası həyata keçirildi?",
+            "c": [
+                "1965",
+                "1967",
+                "1969",
+                "1971"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Yer kürəsinin ən dərin nöqtəsi hansıdır?",
+            "c": [
+                "Mariana Çökəyi",
+                "Tonga Çökəyi",
+                "Java Çökəyi",
+                "Kuril-Kamçatka Çökəyi"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı dəniz Çinin şərqində yerləşir?",
+            "c": [
+                "Sarı dəniz",
+                "Qırmızı dəniz",
+                "Ərəb dənizi",
+                "Qara dəniz"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı şəhər ABŞ-ın Kaliforniya ştatının paytaxtıdır?",
+            "c": [
+                "Los Angeles",
+                "San Francisco",
+                "San Diego",
+                "Sakramento"
+            ],
+            "d": 3
+        },
+        {
+            "s": "Hansı elementin simvolu He-dir?",
+            "c": [
+                "Hidrogen",
+                "Helium",
+                "Hafnium",
+                "Holmium"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Dünyanın ən böyük adalar qrupu hansıdır?",
+            "c": [
+                "Malay Arxipelaqı",
+                "Karib adaları",
+                "Fici adaları",
+                "Havay adaları"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı ölkənin bayrağında yaşıl, ağ və qırmızı rənglər var?",
+            "c": [
+                "İtaliya",
+                "Fransa",
+                "İrlandiya",
+                "Macarıstan"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı şəhər Rusiya Federasiyasının şimalında yerləşir?",
+            "c": [
+                "Moskva",
+                "Sankt-Peterburq",
+                "Murmansk",
+                "Novosibirsk"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Yer kürəsinin ən böyük buz sahəsi hansıdır?",
+            "c": [
+                "Arktik",
+                "Qrenlandiya",
+                "Antarktida",
+                "Sibir"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Hansı heyvanın qanı mavi rəngdədir?",
+            "c": [
+                "Delfin",
+                "Kalmar",
+                "Krab",
+                "Qırmızı balina"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Hansı ölkənin milli simvolu 'gündoğar ölkə'dir?",
+            "c": [
+                "Çin",
+                "Hindistan",
+                "Yaponiya",
+                "Koreya"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Hansı planetin üzərində ən çox peyki var?",
+            "c": [
+                "Yupiter",
+                "Saturn",
+                "Uran",
+                "Neptun"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı dəniz Avropanın şimalında yerləşir?",
+            "c": [
+                "Qara dəniz",
+                "Baltik dənizi",
+                "Adriatik dənizi",
+                "Aralıq dənizi"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı dövlətin bayrağı ən qədimdir?",
+            "c": [
+                "Yaponiya",
+                "Çin",
+                "Danimarka",
+                "Yunanıstan"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Dünyanın ən böyük gölü hansıdır?",
+            "c": [
+                "Beykəl gölü",
+                "Viktoriya gölü",
+                "Xəzər dənizi",
+                "Müstəqillik gölü"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Hansı qaz 'yaşıl ev' effekti yaradır?",
+            "c": [
+                "Oksigen",
+                "Karbon dioksid",
+                "Azot",
+                "Hidrogen"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı dəniz İtaliyanın qərbində yerləşir?",
+            "c": [
+                "Aralıq dənizi",
+                "Sarı dəniz",
+                "Baltik dənizi",
+                "Qara dəniz"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı adada ən böyük vulkan yerləşir?",
+            "c": [
+                "Havay",
+                "İslandiya",
+                "Siciliya",
+                "Yava"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı bitki ən çox su tərkiblidir?",
+            "c": [
+                "Aloe vera",
+                "Kaktus",
+                "Bambuk",
+                "Su zanbağı"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı ölkə 'İnka' mədəniyyətinin mərkəzi olmuşdur?",
+            "c": [
+                "Meksika",
+                "Peru",
+                "Braziliya",
+                "Çili"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı çayın dibi səhranın altında yerləşir?",
+            "c": [
+                "Niger",
+                "Nil",
+                "Colorado",
+                "Amazon"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı dəniz İrlandiyanın qərbində yerləşir?",
+            "c": [
+                "Baltik dənizi",
+                "Şimal dənizi",
+                "Qara dəniz",
+                "Aralıq dənizi"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı ölkənin paytaxtı ən yüksəkdə yerləşir?",
+            "c": [
+                "Tibet",
+                "Peru",
+                "Boliviya",
+                "Nepal"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Hansı elementin simvolu C-dir?",
+            "c": [
+                "Kalium",
+                "Kalsium",
+                "Karbon",
+                "Kadmium"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Dünyanın ən qədim şəhəri hansıdır?",
+            "c": [
+                "Dəməşq",
+                "Afina",
+                "Roma",
+                "İstanbul"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı heyvan Yer kürəsində ən ağırdır?",
+            "c": [
+                "Fil",
+                "Mavi balina",
+                "Gorilla",
+                "Su ilanı"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı dəniz Yunanıstanın cənubunda yerləşir?",
+            "c": [
+                "Adriatik dənizi",
+                "Qara dəniz",
+                "Ege dənizi",
+                "Aralıq dənizi"
+            ],
+            "d": 3
+        },
+        {
+            "s": "Hansı elementin simvolu Na-dır?",
+            "c": [
+                "Neon",
+                "Natrium",
+                "Nikel",
+                "Niobium"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı nöqtə dünya xəritəsində şimal qütbündə yerləşir?",
+            "c": [
+                "0° enliyi, 0° uzunluğu",
+                "90° enliyi, 0° uzunluğu",
+                "0° enliyi, 90° uzunluğu",
+                "90° enliyi, 90° uzunluğu"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı ölkənin bayrağında aypara və ulduz var?",
+            "c": [
+                "Türkiyə",
+                "Əfqanıstan",
+                "İran",
+                "Suriya"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı şəhər Qərbi Avropanın ən böyük şəhəridir?",
+            "c": [
+                "Berlin",
+                "Paris",
+                "Londres",
+                "Madrid"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Yer kürəsində ən böyük çöl hansıdır?",
+            "c": [
+                "Sahara",
+                "Gobi",
+                "Kalahari",
+                "Antarktida"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı ölkənin adı Latın dilində 'gümüş' deməkdir?",
+            "c": [
+                "Aruba",
+                "Argentina",
+                "Almaniya",
+                "Avstriya"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı şəhər Fransa inqilabının mərkəzi olmuşdur?",
+            "c": [
+                "Lyon",
+                "Paris",
+                "Marsel",
+                "Nitsa"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı çay Misirdən keçir?",
+            "c": [
+                "Amazon",
+                "Qanq",
+                "Nil",
+                "Dnepr"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Hansı ada Aralıq dənizində yerləşir?",
+            "c": [
+                "Borneo",
+                "Siciliya",
+                "Sumatra",
+                "Haiti"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı qaz 'inert qaz' adlanır?",
+            "c": [
+                "Oksigen",
+                "Azot",
+                "Karbon dioksid",
+                "Helyum"
+            ],
+            "d": 3
+        },
+        {
+            "s": "Hansı şəhər İtaliyanın maliyyə mərkəzi hesab olunur?",
+            "c": [
+                "Roma",
+                "Venesiya",
+                "Milan",
+                "Florensiya"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Hansı dövlət Asiyada yerləşmir?",
+            "c": [
+                "Hindistan",
+                "Rusiya",
+                "Avstraliya",
+                "Çin"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Hansı dəniz Fransanın cənubunda yerləşir?",
+            "c": [
+                "Baltik dənizi",
+                "Qara dəniz",
+                "Adriatik dənizi",
+                "Aralıq dənizi"
+            ],
+            "d": 3
+        },
+        {
+            "s": "Hansı heyvan Afrika savannalarında yaşayır?",
+            "c": [
+                "Pinqvin",
+                "Qütb ayısı",
+                "Zürafə",
+                "Kanguru"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Hansı çay Rusiyanın ən uzun çayıdır?",
+            "c": [
+                "Volqa",
+                "Lena",
+                "Ob",
+                "Yenisey"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı elementin simvolu N-dir?",
+            "c": [
+                "Neon",
+                "Natrium",
+                "Nikel",
+                "Azot"
+            ],
+            "d": 3
+        },
+        {
+            "s": "Dünyanın ən uzun dağ silsiləsi hansıdır?",
+            "c": [
+                "Himalay",
+                "And",
+                "Qaya Dağları",
+                "Alp"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı dövlət ən çox ada dövlətidir?",
+            "c": [
+                "Filippin",
+                "İndoneziya",
+                "Maldive",
+                "Seyşel"
+            ],
+            "d": 1
+        },
+        {
+            "s": "Hansı şəhər Avstraliyanın ən böyük şəhəridir?",
+            "c": [
+                "Sidney",
+                "Melburn",
+                "Brisben",
+                "Adelaide"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı qaz 'zararsız' qaz adlanır?",
+            "c": [
+                "Oksigen",
+                "Azot",
+                "Hidrogen",
+                "Helyum"
+            ],
+            "d": 3
+        },
+        {
+            "s": "Hansı adanın paytaxtı 'Kuala Lumpur'dur?",
+            "c": [
+                "Tayvan",
+                "Filippin",
+                "Malayziya",
+                "İndoneziya"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Hansı ölkə dünya əhalisinin təqribən 18%-ni təşkil edir?",
+            "c": [
+                "Hindistan",
+                "Çin",
+                "Amerika Birləşmiş Ştatları",
+                "İndoneziya"
+            ],
+            "d": 1
+        }
+    ]
+}
